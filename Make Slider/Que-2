@@ -1,0 +1,3 @@
+javascriptCopy code
+var subjects = ["maths", "science", "english", "Hindi"];
+var marks = [40, 50, 80, 20];
